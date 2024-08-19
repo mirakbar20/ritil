@@ -1,0 +1,27 @@
+.p{
+background-color: black;
+text-align: center;
+border-radius: 10px;
+width: 800px;
+text-align: center;
+margin-left: 300px;
+color: yellow;
+
+}
+.q{
+background-color: bisque;
+text-align: center;
+width: 800px;
+margin-left: 300px;
+}
+.w{
+border-radius: 10px;
+
+}
+.t{
+background-color: green;
+width: 200px;
+height: 20px;
+color: aliceblue;
+border-radius: 15px;
+}
